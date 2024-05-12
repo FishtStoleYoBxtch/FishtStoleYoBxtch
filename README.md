@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FishtStoleYou
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning Python,HTML/CSS/JS,C++
+- 💞️ I’m looking to collaborate on more projects
